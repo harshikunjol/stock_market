@@ -53,23 +53,4 @@ The project successfully developed predictive models for stock market analysis, 
 * Explore additional data sources and advanced modeling techniques.
 * Implement robust evaluation strategies and feature engineering to improve model performance.
   
-## Getting Started
-To get started with the project, follow these steps:
 
-1.Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/stock-market-analysis.git
-
-2.Install the required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-
-3.Run the analysis script:
-
-bash
-Copy code
-python analysis.py
