@@ -1,4 +1,4 @@
-## Stock Market Analysis Project
+# Stock Market Analysis Project
 ### Overview
 This project aims to develop predictive models for stock market analysis, providing insights into price movements based on various features. The findings can assist investors in making informed decisions and understanding market trends.
 
